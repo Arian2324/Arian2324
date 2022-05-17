@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arian2324
 - 👀 I’m interested in Innovative Projects/Products and Vintage Toyota Trucks
-- 🌱 I’m currently learning AI coding using Python and Pursuing CAMP Certification.
+- 🌱 I’m currently learning AI coding using Python and Pursuing CAPM Certification.
 - 💞️ I’m looking to collaborate on any thing innovative
 - 📫 How to reach me ? www.linkedin.com/in/arian-morshed-aba692204
 
